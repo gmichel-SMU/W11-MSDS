@@ -21,6 +21,8 @@ knitr::opts_chunk$set(echo = TRUE, eval = FALSE)
 
 ## Uncomment and install packages if you don't have it
 #install.packages("tseries")
+#install.packages("caTools")
+#install.packages("httpuv")
 
 ```{r}
 
