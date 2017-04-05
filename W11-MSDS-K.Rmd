@@ -4,8 +4,12 @@ author: "Georges Michel"
 date: "4/5/2017"
 output: html_document
 keep_md: true
+
+
 ---
 
+
+[GitHub Link](https://github.com/gmichel-SMU/W11-MSDS/)
 
 ```{r setup, include=FALSE}
 
